@@ -80,6 +80,6 @@ $omi->salary = '60,000';
 // print_r($omi);
 
 _echo($omi->salary);
-_echo(Person::check());
+_echo(Person::check()); 
 
 ?>
